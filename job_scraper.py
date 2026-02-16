@@ -10,7 +10,7 @@ querystring = {
 }
 
 headers = {
-    "X-RapidAPI-Key": "YOUR_API_KEY",
+    "X-RapidAPI-Key": "c9f5210ddamsh0e9677d9a980234p133ba0jsn86c0b3330679",
     "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
 }
 
